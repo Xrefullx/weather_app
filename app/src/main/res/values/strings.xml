@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">My Application</string>
+        <string name="Logo">Погода в вашем городе</string>
+        <string name="hint_user_field">Введите город</string>
+        <string name="user_button">Узнать погоду</string>
+        <string name="no_user">Введите текст</string>
+
+</resources>
